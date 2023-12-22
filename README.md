@@ -1,4 +1,8 @@
-### Hi there 👋
+### You can call me Mo 👋
+Computer science Stunden (IT) 🎧💻🔍
+Java, C, HTML 🧑‍💻
+Gaming & Frontend 🎮🎨
+Karlsruhe Institut für Technologie (KIT) 🥇
 
 <!--
 **Mo-Habbal/Mo-Habbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
