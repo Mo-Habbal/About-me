@@ -1,4 +1,4 @@
-### You can call me Mo 👋
+### Hey there 👋
 - Computer science Stunden (IT) 🎧💻🔍
 - Java, C, HTML 🧑‍💻
 - Gaming & Frontend 🎮🎨
