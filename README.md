@@ -1,8 +1,9 @@
 ### Hey there 👋
-- 💻 Computer science Stunden (IT) 
+- 💻 Computer science Stunden (IT)
+- 🥇 Karlsruhe Institut für Technologie (KIT)
 - 🧑‍💻 Java, C, Frontend
 - 🎮 Gaming & Web development
-- 🥇 Karlsruhe Institut für Technologie (KIT)
+
 
 <!--
 **Mo-Habbal/Mo-Habbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
