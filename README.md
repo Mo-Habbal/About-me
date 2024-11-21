@@ -1,8 +1,6 @@
 ### Hey there 👋
 - 💻 Computer science Stunden (IT)
 - 🥇 Karlsruhe Institut für Technologie (KIT)
-- 🧑‍💻 Java, C, Frontend
-- 🎮 Gaming & Web development
 
 
 <!--
